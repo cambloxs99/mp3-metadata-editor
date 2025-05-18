@@ -1,2 +1,11 @@
-# mp3-metadata-editor
-Made in Python
+# MP3 Metadata Editor
+Made in Python<br>
+Can edit:
+```Artist
+Title
+Album
+Genre
+Year
+Track Number
+Disc Number
+Lyrics (unsynchronised)
